@@ -1,4 +1,9 @@
-### Hi there 👋
+### Studentka AGH: Informatyka i systemy inteligentne
+Członek DeadPxlz
+
+Zainteresowania i umiejętności: programowanie i grafika komputerowa - [link do portfolio](https://drive.google.com/drive/folders/15ADb8wdDfpK6yUYaHwPKNJutCHW3Wk0-?usp=sharing)
+
+
 
 <!--
 **Stepkata/Stepkata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
