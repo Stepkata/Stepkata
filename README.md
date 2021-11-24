@@ -5,6 +5,8 @@ Zainteresowania i umiejętności: programowanie i grafika komputerowa - [link do
 
 [moja strona internetowa - github](https://stepkata.github.io/)
 
+[moja strona internetowa - wix](https://otiofthebag.wixsite.com/website-1)
+
 <!--
 **Stepkata/Stepkata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
