@@ -3,7 +3,7 @@ Członek DeadPxlz
 
 Zainteresowania i umiejętności: programowanie i grafika komputerowa - [link do portfolio](https://drive.google.com/drive/folders/15ADb8wdDfpK6yUYaHwPKNJutCHW3Wk0-?usp=sharing)
 
-
+[moja strona internetowa - github](https://stepkata.github.io/)
 
 <!--
 **Stepkata/Stepkata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
