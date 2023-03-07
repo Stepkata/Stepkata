@@ -5,7 +5,6 @@ Zainteresowania i umiejętności: programowanie i grafika komputerowa - [link do
 
 [moja strona internetowa - github](https://stepkata.github.io/)
 
-[moja strona internetowa - wix](https://otiofthebag.wixsite.com/website-1)  
 
 [fork](https://github.com/Stepkata/hyperstyle) 
 
