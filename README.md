@@ -1,5 +1,5 @@
 ### Studentka AGH: Informatyka i systemy inteligentne
-Członek DeadPxlz
+Członek AGH Code Industry
 
 Zainteresowania i umiejętności: programowanie i grafika komputerowa - [link do portfolio](https://drive.google.com/drive/folders/15ADb8wdDfpK6yUYaHwPKNJutCHW3Wk0-?usp=sharing)
 
